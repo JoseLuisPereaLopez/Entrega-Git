@@ -1,1 +1,15 @@
-# Entrega-Git
+# Entrega Git - Laboratorio 
+
+![git 1](https://user-images.githubusercontent.com/128602133/228246232-510e02e3-33ed-47d8-80f1-dda0714f14d5.PNG)
+![git 1 5](https://user-images.githubusercontent.com/128602133/228246253-31483bdc-93db-43b3-b29f-caa3c78fdfa2.PNG)
+![git 2](https://user-images.githubusercontent.com/128602133/228246276-11135707-ab8f-4bd0-a85a-37f38fcce21d.PNG)
+![git 2 1](https://user-images.githubusercontent.com/128602133/228246284-9a3a2c67-089d-499a-97e7-16baa8e4b087.PNG)
+![git 2 2](https://user-images.githubusercontent.com/128602133/228246313-79407b7c-1232-4cba-9fdf-a2bb6c7ef9eb.PNG)
+![git 2 3](https://user-images.githubusercontent.com/128602133/228246325-06a3f30d-5ff9-4330-ad6b-6578b146399e.PNG)
+![git 2 4](https://user-images.githubusercontent.com/128602133/228246346-dd7d0323-e3e7-435c-9774-b3318949ab80.PNG)
+![git 2 5](https://user-images.githubusercontent.com/128602133/228246358-9bca1b48-7f23-47de-b4ef-e45b59abd05a.PNG)
+![git 3](https://user-images.githubusercontent.com/128602133/228246377-e80367f6-4448-4d5a-b588-755e8d52e158.PNG)
+![git 3 1](https://user-images.githubusercontent.com/128602133/228246392-c33f2a6e-b29e-4f7d-9ecc-b8e4b28345df.PNG)
+![git 3 2](https://user-images.githubusercontent.com/128602133/228246402-3635b775-75b7-441d-8df6-828862e6dce5.PNG)
+![git 3 3](https://user-images.githubusercontent.com/128602133/228246412-9eeeefcb-7733-4df9-9d87-d521a60154c1.PNG)
+![git 4](https://user-images.githubusercontent.com/128602133/228246421-3ce5b138-3df1-4185-b2bb-697569f9a2f4.PNG)
